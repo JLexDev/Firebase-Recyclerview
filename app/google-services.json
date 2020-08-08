@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1074130101259",
+    "firebase_url": "https://rv-firebase.firebaseio.com",
+    "project_id": "rv-firebase",
+    "storage_bucket": "rv-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074130101259:android:1bb90ec440d00788",
+        "android_client_info": {
+          "package_name": "jlexdev.com.firebaservdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074130101259-t6ighgah78lvi3qhr625tg28d035bl2p.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1074130101259-t6ighgah78lvi3qhr625tg28d035bl2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXxb0ao-N1AZFLF3yy_D32ubSzRZGNPgs"
+        },
+        {
+          "current_key": "AIzaSyC_MQK1mPkT60BC0YyyHLfoI7LSHPJhGTw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
